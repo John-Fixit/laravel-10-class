@@ -1,2 +1,2 @@
 #Laravel course
-learning laravel 10
+learning, laravel 10
